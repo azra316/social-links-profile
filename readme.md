@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Live Site](#)
+- Live Site URL: [Live Site](https://social-links-profile-seven-henna.vercel.app/)
 - Solution URL: [Frontend Mentor Solution](#)
 
 ## My process
@@ -45,10 +45,10 @@ Users should be able to:
 
 This project helped me practice:
 
-- Using **CSS custom properties** to create a consistent design system with variables like colors and spacing.
+- Using **CSS custom properties** to create a consistent design system with variables like colors.
 - Implementing **responsive layouts** using media queries.
-- Enhancing user experience by adding **hover states** and **focus states** to buttons and links.
-- Styling buttons and links with interactive behaviors (e.g., `cursor: pointer` and hover color transitions).
+- Enhancing user experience by adding **hover states** and **focus states** to buttons.
+- Styling buttons and links with interactive behaviors (e.g., `cursor: pointer` and hover color transition).
 
 ### Useful resources
 
